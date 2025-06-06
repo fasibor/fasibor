@@ -2,7 +2,7 @@
 
 ###
 
-`Digital Craftsman (Data Analyst | 💹Forex & Crypto Trader | 🎮Video Game Player)`
+`Digital Millionaire (Data Analyst | 💹Forex & Crypto Trader | 🎮Video Game Player)`
 
 
 

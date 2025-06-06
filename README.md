@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">💻Tech Stack:</h2>
+<h3 align="left">💻Tech Stack:</h3>
 
 ###
 
@@ -35,9 +35,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 </div>
 
+<h3>Projects by Tools Used</h3>
+
+<ul>
+  <li>🔷 <a href="https://github.com/search?q=user:fasibor+topic:power-bi" target="_blank" rel="noopener noreferrer">Power BI Projects</a></li>
+  <li>🟢 <a href="https://github.com/search?q=user:fasibor+topic:excel" target="_blank" rel="noopener noreferrer">Excel Projects</a></li>
+  <li>🟣 <a href="https://github.com/search?q=user:fasibor+topic:tableau" target="_blank" rel="noopener noreferrer">Tableau Projects</a></li>
+</ul>
+
+<hr />
+
 ###
 
-<h2 align="left">👇 Kindly React Out Below:</h2>
+<h3 align="left">👇 Kindly React Out Below:</h3>
 
 ###
 

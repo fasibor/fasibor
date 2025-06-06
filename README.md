@@ -64,7 +64,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/fasibor/fasibor/output/github-snake.svg" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/fasibor/fasibor/output/snake.svg" alt="Snake animation" />
 
 ###
 

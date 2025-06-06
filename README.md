@@ -1,6 +1,11 @@
-<h2 align="left">Hi 👋! I'm Felix.</h2>
+<h2 align="left">👨🏿‍💻 Felix Asibor</h2>
 
 ###
+
+`Digital Craftsman (Data Analyst | 💹Forex & Crypto Trader | 🎮Video Game Player)`
+
+
+
 
 <p align="left">Welcome to my GitHub!<br><br>I'm a <strong>Data Analyst</strong> & <strong>Data Visualization Engineer</strong> strong>with an Electrical Engineering background and a passion for uncovering the hidden stories within data. I specialize in <strong>Excel</strong>, <strong>Power BI</strong>, <strong>Tableau</strong>, <strong>SQL</strong>, and <strong>Python</strong>, transforming raw data into actionable business intelligence that drives growth and innovation.<br><br>🔍 What I Do Best:<br><br>1. Cleaning & Organizing Data –Fixing messy data so it’s accurate and easy to use.<br><br>2. Finding Insights – Analyzing numbers to discover trends and opportunities.<br><br>3. Building Dashboards – Creating Power BI & Excel reports that simplify complex data.<br><br>4. Working with Databases – Writing SQL queries to pull and analyze data.<br><br>5. Automating Tasks – Saving time by reducing manual work with Power Query & Excel macros.<br><br>I don’t just analyze data—I decode, visualize, and strategize to turn data into smart business decisions. Whether it’s optimizing performance, tracking key metrics, or uncovering hidden patterns, I help businesses make smarter decisions with data.</p>
 

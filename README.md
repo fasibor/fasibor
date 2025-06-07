@@ -42,7 +42,7 @@
 
 ###
 
-<h3>Projects by Viz Tools Used </h3>
+<h3>💼 Projects by Viz Tools Used </h3>
 
 
 ###
@@ -69,7 +69,7 @@
 
 ###
 
-<h3 align="left">👇 Contact Me Here </h3>
+<h3 align="left">💬 Contact Me Here </h3>
 
 ###
 

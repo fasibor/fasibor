@@ -9,31 +9,31 @@
 
 <p align="left">Welcome to my GitHub!<br><br>I'm a <strong>Data Analyst</strong> & <strong>Data Visualization Engineer</strong> with an Electrical Engineering background and a passion for uncovering the hidden stories within data. I specialize in <strong>Excel</strong>, <strong>Power BI</strong>, <strong>Tableau</strong>, <strong>SQL</strong>, and <strong>Python</strong>, transforming raw data into actionable business intelligence that drives growth and innovation.<br><br>🔍 What I Do Best:<br><br>1. Cleaning & Organizing Data –Fixing messy data so it’s accurate and easy to use.<br><br>2. Finding Insights – Analyzing numbers to discover trends and opportunities.<br><br>3. Building Dashboards – Creating Power BI & Excel reports that simplify complex data.<br><br>4. Working with Databases – Writing SQL queries to pull and analyze data.<br><br>5. Automating Tasks – Saving time by reducing manual work with Power Query & Excel macros.<br><br>I don’t just analyze data—I decode, visualize, and strategize to turn data into smart business decisions. Whether it’s optimizing performance, tracking key metrics, or uncovering hidden patterns, I help businesses make smarter decisions with data.</p>
 
+#
+
 ###
 
-<h3 align="left">💻Tech Stack:</h3>
+<h3 align="left">🧰 Languages and Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px" alt="sqlite logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="30px" alt="sqlalchemy logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30px" alt="r logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" alt="postgresql logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30px" alt="pandas logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30px" alt="jupyter logo"  />
 </div>
+<br />
+
+
+#
+
 
 ###
 
@@ -48,7 +48,7 @@
   <li>🟣 <a href="https://github.com/search?q=user:fasibor+topic:tableau" target="_blank" rel="noopener noreferrer">Tableau Projects</a></li>
 </ul>
 
-<hr />
+#
 
 ###
 

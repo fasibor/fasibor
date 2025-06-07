@@ -13,11 +13,14 @@
 
 ###
 
-<h3 align="left">🧰 Languages and Tools</h3>
+<h3 align="left">🧰 Viz Tools and Languages </h3>
 
 ###
 
 <div align="left">
+  <img align="left" style="padding-right:10px;" src="https://img.icons8.com/?size=48&id=117561&format=png" width="30px" alt="Excel Logo"  />
+  <img align="left" style="padding-right:10px;" src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" width="30px" alt="Power Bi Logo"  />
+  <img align="left" style="padding-right:10px;" src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" width="30px" alt="Tableau Logo"  />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -28,6 +31,8 @@
   <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" alt="postgresql logo"  />
   <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30px" alt="pandas logo"  />
   <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30px" alt="jupyter logo"  />
+
+  
 </div>
 <br />
 
@@ -37,22 +42,34 @@
 
 ###
 
-<h3>Projects by Tools Used</h3>
+<h3>Projects by Viz Tools Used </h3>
 
 
 ###
 
-<ul>
-  <li>🔷 <a href="https://github.com/search?q=user:fasibor+topic:power-bi" target="_blank" rel="noopener noreferrer">Power BI Projects</a></li>
-  <li>🟢 <a href="https://github.com/search?q=user:fasibor+topic:excel" target="_blank" rel="noopener noreferrer">Excel Projects</a></li>
-  <li>🟣 <a href="https://github.com/search?q=user:fasibor+topic:tableau" target="_blank" rel="noopener noreferrer">Tableau Projects</a></li>
-</ul>
+<div>
+  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" width="15px" alt="Power BI Logo" />
+    <a href="https://github.com/search?q=user:fasibor+topic:power-bi" target="_blank" rel="noopener noreferrer">Power BI Projects</a>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/?size=48&id=117561&format=png" width="15px" alt="Excel Logo" />
+    <a href="https://github.com/search?q=user:fasibor+topic:excel" target="_blank" rel="noopener noreferrer">Excel Projects</a>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" width="15px" alt="Tableau Logo" />
+    <a href="https://github.com/search?q=user:fasibor+topic:tableau" target="_blank" rel="noopener noreferrer">Tableau Projects</a>
+  </div>
+</div>
+
+
+
 
 #
 
 ###
 
-<h3 align="left">👇 Kindly React Out Below</h3>
+<h3 align="left">👇 Contact Me Here </h3>
 
 ###
 

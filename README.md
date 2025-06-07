@@ -72,10 +72,10 @@
 <a href="https://wa.me/message/47L6IKVQMEYOB1" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" style="margin-right: 12px;" />
 </a>
-
-
-
+  
 </div>
+
+#
 
 ###
 

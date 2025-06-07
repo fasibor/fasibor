@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">👇 Kindly React Out Below:</h3>
+<h3 align="left">👇 Kindly React Out Below</h3>
 
 ###
 

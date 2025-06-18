@@ -92,13 +92,16 @@
   
 </div>
 
+
 #
+
+
 
 ###
 
 <br clear="both">
 
-> I’m actively learning and building. Open to partnerships, Internships and Data Analysts roles.
+
 
 
 <picture>

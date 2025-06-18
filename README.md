@@ -98,6 +98,9 @@
 
 <br clear="both">
 
+> I’m actively learning and building. Open to partnerships, Internships and Data Analysts roles.
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasibor/fasibor/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fasibor/fasibor/output/github-snake.svg" />

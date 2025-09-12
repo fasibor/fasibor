@@ -65,6 +65,12 @@
   </div>
 </div>
 
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="15px" alt="Postgresql Logo" />
+    <a href="https://github.com/search?q=user:fasibor+topic:sql" target="_blank" rel="noopener noreferrer">SQL Projects</a>
+  </div>
+</div>
+
 
 
 

@@ -23,7 +23,7 @@
   <img align="left" style="padding-right:10px;" src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" width="20px" alt="Tableau Logo"  />       
   <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="left" alt="HTML" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      
-  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="20px" alt="r logo"  />     
+    
   <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="20px" alt="MySQL logo" />
   <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="20px" alt="SQL Server logo" />       
   <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="20px" alt="postgresql logo"  />
@@ -72,7 +72,11 @@
 </div>
 
 
-
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="15px" alt="Python Project" />
+    <a href="https://github.com/search?q=user:fasibor+topic:python" target="_blank" rel="noopener noreferrer">Python Projects</a>
+  </div>
+</div>
 
 #
 
